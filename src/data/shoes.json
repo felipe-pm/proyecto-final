@@ -1,0 +1,56 @@
+[
+    {
+        "desc": "¿Amas el look clásico del básquetbol de los años 80, pero también te apasiona la cultura acelerada de los partidos actuales? Te presentamos el Nike Court Vision Low. Un clásico rediseñado con al menos un 20% de materiales reciclados por peso, su parte superior nítida y los revestimientos cosidos mantienen el alma del estilo original. El cuello del tobillo de corte low y acolchado brinda elegancia y comodidad.",
+        "id": "S001",
+        "img": "https://nikeclprod.vteximg.com.br/arquivos/ids/671391-1000-1000/DH2987_107_A_PREM.jpg?v=638151038907230000",
+        "data": ["Perforaciones en la punta y los laterales", "Suela de goma", "Amortiguación duradera", "Fácil de combinar"],
+        "name": "Nike Court Vision Low Next Nature",
+        "price": 76990,
+        "qty": 1
+    },
+    {
+        "desc": "Aporta tu propio estilo y agrega ese toque especial al modelo original. Con su color neutro y fácil de combinar, este toque personalizable en el icónico diseño te permite expresarte libremente: tíñelo, corta las capas, escribe un poco de tu historia, tú eliges. La lona vintage se combina con otros materiales como el cuero suave (hay 2 capas de tela), lo que te permite disfrutar de una amplia variedad de texturas cuando creas tu look. Sigue adelante con la etiqueta extraíble de la lengüeta y la presilla en el talón para obtener el look único y perfecto. Ahora es personal.",
+        "id": "S002",
+        "img": "https://nikeclprod.vteximg.com.br/arquivos/ids/620553-1000-1000/DZ5367_219_A_PREM.jpg?v=638029253870800000",
+        "data": ["La parte superior personalizable combina cuero y lona para brindar un look duradero en capas", "La correa con cierre por contacto alrededor del cuello te permite regular el ajuste", "Diseñada originalmente para el básquetbol de alto rendimiento, la amortiguación Nike Air brinda comodidad duradera", "La suela de goma aporta tracción y durabilidad"],
+        "name": "Air Force 1  Mid Lx",
+        "price": 146990,
+        "qty": 1
+    },
+    {
+        "desc": "Este AJ1 de corte low renueva un clásico con nuevos colores y texturas, para ofrecer un look novedoso con una sensación familiar. Los materiales y los detalles premium aportan una expresión moderna al favorito de siempre.",
+        "id": "S003",
+        "img": "https://nikeclprod.vteximg.com.br/arquivos/ids/666842-1000-1000/DV1309_051_A_PREM.jpg?v=638120945069670000",
+        "data": ["Cuero genuino", "Logotipo Wings estampado en el talón", "Logotipo Swoosh cosido", "Diseño Jumpman Air en la lengüeta"],
+        "name": "Nike Court Vision Low Next Nature",
+        "price": 126990,
+        "qty": 1
+    },
+    {
+        "desc": "El Invincible Run 3 tiene una placa de amortiguación gruesa para mantenerte de pie hoy, mañana y más allá. Es superelástico y con rebote para que puedas impulsarte en tu camino preferido y regreses para tu próxima carrera con energía y vitalidad.",
+        "id": "S004",
+        "img": "https://nikeclprod.vteximg.com.br/arquivos/ids/648135-1000-1000/DR2615_100_A_PREM.jpg?v=638091327904600000",
+        "data": ["Este producto no está diseñado para usarse como equipo de protección personal (EPP)", "La amortiguación ZoomX impecable aporta suavidad en la planta del pie", "Nuestro calzado de running en carretera con mayor amortiguación te ofrece una elegante espuma ZoomX foam", "Es superelástico y con rebote para que puedas impulsarte en tu camino preferido"],
+        "name": "Nike Invincible Run 3",
+        "price": 196990,
+        "qty": 1
+    },
+    {
+        "desc": "Intacto, inalterado y sacado directamente de los archivos; ya sabes a lo que nos referimos. El calzado Terminator High te permite regresar a la época de los ganchos, las rodilleras y los calcetines hasta la pantorrilla. Regresa el modelo original de 1985 (el primer calzado universitario exclusivo de Nike), los bloques de color retro ofrecen el estilo del campeón. El cuero impecable lo hace más suave que el vidrio del tablero, al mismo tiempo que la marca retro ofrece un gran acabado universitario. Es hora del partido.",
+        "id": "S005",
+        "img": "https://nikeclprod.vteximg.com.br/arquivos/ids/648965-1000-1000/FD0650_100_A_PREM.jpg?v=638091338990600000",
+        "data": ["La parte superior de cuero con costuras resistentes resiste las exigencias del día", "El cuello acolchado de corte high aporta un look retro que se siente increíble", "La suela de goma ofrece tracción duradera", "Los dos pares de agujetas te permiten alternar tu look"],
+        "name": "Nike Terminator High",
+        "price": 149990,
+        "qty": 1
+    },
+    {
+        "desc": "Juega con el campo a tu favor con el diseño audaz del Superfly 9 Elite, ligero y con mayor contacto con el suelo. La velocidad del Air.",
+        "id": "S006",
+        "img": "https://nikeclprod.vteximg.com.br/arquivos/ids/648039-1000-1000/DJ5961_146_A_PREM.jpg?v=638091326516700000",
+        "data": ["Para usar en superficies naturales y sintéticas", "Plantilla acolchada", "Amortiguación firme", "Mejor control del balón durante los regates"],
+        "name": "Nike Mercurial Superfly 9 Club MG",
+        "price": 76990,
+        "qty": 1
+    }
+]
