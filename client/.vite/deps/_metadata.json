@@ -1,0 +1,38 @@
+{
+  "hash": "bdc6f5ba",
+  "browserHash": "2fddc39f",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "8b25f5b2",
+      "needsInterop": true
+    },
+    "react-bootstrap/Carousel": {
+      "src": "../../node_modules/react-bootstrap/esm/Carousel.js",
+      "file": "react-bootstrap_Carousel.js",
+      "fileHash": "21047146",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "b54487d4",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "f751ae97",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-SRAQOA3L": {
+      "file": "chunk-SRAQOA3L.js"
+    },
+    "chunk-QSQYAWSL": {
+      "file": "chunk-QSQYAWSL.js"
+    }
+  }
+}
